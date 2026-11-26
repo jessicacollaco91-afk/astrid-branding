@@ -1,0 +1,378 @@
+# Módulo 5 · Head de Branding: Business & Laboratório
+## Aula 5 · Templates
+
+Texto extraído dos slides da formação. As páginas indicadas são do PDF do módulo.
+
+### p. 263–266
+
+TEMPLATE PARA PREENCHER AULA 01 · PARA COLAR NA IA
+FICHA DE BRIEFING DA CLIENTE · 1/2
+MARCA / CLIENTE: DATA:
+01 · EMPRESA, SEGMENTO E CIDADE 02 · HISTÓRIA E TEMPO DE MERCADO
+Nome, o que vende, onde atua Como começou, marcos importantes
+03 · MOMENTO DO NEGÓCIO 04 · PRODUTOS E SERVIÇOS
+Expansão, lançamento, crise, mudança de público? Principais, mais vendidos, mais lucrativos
+05 · PÚBLICO ATUAL 06 · PÚBLICO DESEJADO
+Quem compra hoje Quem a empresa quer atrair
+TEMPLATE PARA PREENCHER AULA 01 · PARA COLAR NA IA
+FICHA DE BRIEFING DA CLIENTE · 2/2
+MARCA / CLIENTE: DATA:
+01 · PROBLEMAS PERCEBIDOS 02 · OBJETIVOS DO PROJETO
+O que a cliente diz que não funciona O que precisa mudar e em quanto tempo
+03 · O QUE A CLIENTE ACHA QUE PRECISA 04 · CONCORRENTES E REFERÊNCIAS
+O pedido inicial, nas palavras dela Quem ela admira e com quem é comparada
+05 · RESTRIÇÕES 06 · HIPÓTESE INICIAL DO HEAD
+Prazo, orçamento, o que não pode mudar O que você suspeita que seja o problema real
+TEMPLATE PARA PREENCHER AULA 01 · OITO SEMANAS
+CRONOGRAMA DE PROJETO
+MARCA / CLIENTE: DATA:
+S01 S02 S03 S04 S05 S06 S07 S08
+IMERSÃO · PESQUISA RELEVÂNCIA IDENTIDADE SIGNIFICADO MANIFESTAÇÃO MANIFESTAÇÃO ATIVAÇÃO
+PESQUISA
+Imersão Pesquisa Relevância Identidade Significado Manifestação Ativação reunião entrega ou aprovação
+TEMPLATE · AULA 01
+PRISMA PROJECT
+BOOK
+(caderno de projeto PRISMA)
+Uma ferramenta de trabalho para organizar todos os seus
+futuros projetos de branding (construção e gestão de marca).
+Ficha do cliente
+Diagnóstico inicial
+Escopo
+Tarefas por etapa do PRISMA
+Controle de reuniões
+Controle de aprovações
+Organização dos entregáveis
+Acompanhamento semanal
+Lista de verificação da entrega final
+
+### p. 267–271
+
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 1
+FICHA DO CLIENTE
+MARCA / CLIENTE: DATA:
+01 · EMPRESA E SEGMENTO 02 · RESPONSÁVEL E QUEM DECIDE
+Nome, cargo, contato
+03 · CANAIS DE CONTATO 04 · TIPO DE PROJETO CONTRATADO
+WhatsApp, e-mail, horário preferido Construção, reposicionamento, rebranding (reconstrução da marca)...
+05 · DATA DE INÍCIO E DE ENTREGA 06 · MATERIAIS RECEBIDOS
+O que a cliente já enviou
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 2
+DIAGNÓSTICO INICIAL · 1/2
+MARCA / CLIENTE: DATA:
+01 · PROBLEMA CENTRAL DO NEGÓCIO 02 · SINTOMAS PERCEBIDOS
+O que aparece na superfície
+03 · POSSÍVEIS CAUSAS 04 · PERCEPÇÃO ATUAL DA MARCA
+Hipóteses a investigar Como é vista hoje
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 2
+DIAGNÓSTICO INICIAL · 2/2
+MARCA / CLIENTE: DATA:
+01 · PERCEPÇÃO DESEJADA 02 · OPORTUNIDADES INICIAIS
+Como quer ser vista
+03 · RISCOS E RESTRIÇÕES 04 · PRIORIDADES DO PROJETO
+As 3 primeiras
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 3
+ESCOPO DO PROJETO · 1/2
+MARCA / CLIENTE: DATA:
+01 · PROBLEMA CENTRAL E OBJETIVOS 02 · ETAPAS CONTRATADAS
+Quais etapas do PRISMA
+03 · ENTREGÁVEIS DE CADA ETAPA 04 · NÍVEIS CONTRATADOS
+Estratégia, direção, execução
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 3
+ESCOPO DO PROJETO · 2/2
+MARCA / CLIENTE: DATA:
+01 · REUNIÕES E PRAZOS 02 · RODADAS DE AJUSTES
+Quantas reuniões, prazo total Quantas por entregável
+03 · RESPONSABILIDADES DO CLIENTE E DO 04 · SERVIÇOS NÃO INCLUÍDOS
+PROFISSIONAL Deixe claro o que fica fora
+
+### p. 272–277
+
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 4
+TAREFAS POR ETAPA DO PRISMA
+MARCA / CLIENTE: DATA:
+00 · IMERSÃO P · PESQUISA R · RELEVÂNCIA I · IDENTIDADE S · SIGNIFICADO M · MANIFESTAÇÃO A · ATIVAÇÃO
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 5
+CONTROLE DE REUNIÕES
+MARCA: DATA:
+01 · REUNIÃO 02 · DATA 03 · 04 · PAUTA 05 · DECISÕES 06 · PRÓXIMOS
+PARTICIPANTES PASSOS
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 6
+CONTROLE DE APROVAÇÕES
+MARCA: DATA:
+01 · 02 · ENVIADO 03 · APROVADO 04 · DATA 05 · AJUSTES 06 · RODADA
+ENTREGÁVEL EM POR PEDIDOS
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 7
+ORGANIZAÇÃO DOS ENTREGÁVEIS
+MARCA: DATA:
+01 · 02 · ETAPA 03 · 04 · PRAZO 05 · PASTA / 06 · STATUS
+ENTREGÁVEL PRISMA RESPONSÁVEL LINK
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 8
+ACOMPANHAMENTO SEMANAL
+MARCA: DATA:
+01 · SEMANA 02 · O QUE FOI 03 · ATRASOS 04 · RISCOS 05 · 06 · AÇÃO
+FEITO PENDÊNCIAS
+DO CLIENTE
+TEMPLATE PARA PREENCHER P R O J E C T B O O K (caderno de projeto) · 0 9
+LISTA DE VERIFICAÇÃO DA ENTREGA FINAL
+MARCA / CLIENTE: DATA:
+Dossiê estratégico Manual de marca
+Manual de comunicação Diretrizes de cultura
+Painel de aplicações Plano de experiência
+Plano de ativação Apresentação executiva
+Todas as aprovações registradas Arquivos na pasta Entrega final
+Orientações de implementação Próximos passos apresentados
+Contrato encerrado e pagamento quitado Pedido de depoimento e de indicação
+Marque só o que está no escopo contratado.
+
+### p. 278–282
+
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 01
+MEU NICHO E MINHAS FONTES
+MARCA / CLIENTE: DATA:
+01 · NICHO ESCOLHIDO E POR QUÊ 02 · ONDE ESSE NICHO SE CONCENTRA
+Facilidade, experiência ou demanda 5 fontes de garimpo
+03 · SINAIS DE OPORTUNIDADE DE BRANDING 04 · MINHA ROTINA DE PROSPECÇÃO
+(construção e gestão de marca) Dias, horários, quantos perfis por sessão
+O que vou procurar nos perfis
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 02
+RADAR DE OPORTUNIDADES · 1/2
+MARCA: DATA:
+01 · 02 · 03 · 04 · 05 · 06 · 07 ·
+EMPRESA E RESPONSÁVEL PROBLEMA OPORTUNIDADE POTENCIAL SITUAÇÃO PRÓXIMA
+SEGMENTO E CANAL AÇÃO
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 02
+RADAR DE OPORTUNIDADES · 2/2
+MARCA: DATA:
+01 · 02 · 03 · 04 · 05 · 06 · 07 ·
+EMPRESA E RESPONSÁVEL PROBLEMA OPORTUNIDADE POTENCIAL SITUAÇÃO PRÓXIMA
+SEGMENTO E CANAL AÇÃO
+TEMPLATE PARA PREENCHER AULA 03 · NOTAS DE 0 A 2
+QUALIFICAÇÃO DE LEADS (contatos interessados)
+MARCA: DATA:
+01 · 02 · 03 · 04 · 05 · 06 · 07 · TOTAL
+EMPRESA NECESSIDADE MOMENTO INVESTIMENTO MATURIDADE AUTORIDADE (0 A 10)
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 03
+FAST-ANÁLISE DE BRANDING (construção e gestão de marca)
+MARCA / CLIENTE: DATA:
+01 · PROMESSA 02 · DIFERENCIAL
+O que a marca promete, em uma frase? O que a torna diferente, de verdade?
+03 · PERCEPÇÃO DE PREÇO 04 · COERÊNCIA
+Parece cara, barata ou genérica? O que diz combina com o que mostra?
+05 · MAIOR OPORTUNIDADE DE BRANDING 06 · FRASE-GANCHO PARA A ABORDAGEM
+Sem criticar a empresa
+
+### p. 283–287
+
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 04
+MINHAS ABORDAGENS
+MARCA / CLIENTE: DATA:
+01 · NOVO SEGUIDOR CURIOSO 02 · EMPRESA EM EXPANSÃO OU FAST-ANÁLISE
+Elogio específico + pergunta Observação + oportunidade + convite
+03 · PARCERIA COM AGÊNCIA OU ESTÚDIO 04 · CHECKLIST
+Complementaridade + convite Personalizei? Observação real? Convite leve? Tom da minha marca?
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 05
+ROTEIRO DA REUNIÃO
+MARCA / CLIENTE: DATA:
+01 · CONEXÃO 02 · SITUAÇÃO
+História e momento do negócio
+03 · PROBLEMA 04 · IMPLICAÇÃO
+Quanto custa não resolver
+05 · SOLUÇÃO PROPOSTA 06 · FECHAMENTO E PRÓXIMOS PASSOS
+Etapas do PRISMA e entregáveis Investimento, objeções, data do retorno
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 06
+BANCO DE OBJEÇÕES
+MARCA: DATA:
+01 · OBJEÇÃO 02 · O QUE PODE ESTAR 03 · MINHA RESPOSTA 0 4 · A LT E R N AT IVA A O
+POR TRÁS DESCONTO
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 08
+CALCULADORA DE PREÇO
+MARCA / CLIENTE: DATA:
+TRÊS VERSÕES DE ESCOPO
+Horas estimadas × valor da hora (R$)
+Essencial · R$
+Terceirizados (R$)
+Ferramentas e custos operacionais (R$)
+CUSTO TOTAL (R$)
+Impostos (% sobre a receita) Estratégico · R$
+Margem desejada (%)
+PREÇO = custo ÷ (1 − impostos −
+margem)
+Completo · R$
+Preço arredondado a apresentar (R$)
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 07
+PROPOSTA COMERCIAL · PÁGINAS 1 A 4
+MARCA / CLIENTE: DATA:
+PÁGINA 01 · CAPA PÁGINA 02 · CENÁRIO ATUAL
+Projeto, cliente, quem assina Momento e desafios
+PÁGINA 03 · OPORTUNIDADE PÁGINA 04 · SOLUÇÃO ESTRATÉGICA
+O que pode ser explorado Como o branding (construção e gestão de marca) contribui
+
+### p. 288–293
+
+TEMPLATE PARA PREENCHER AULA 03 · EXERCÍCIO 07
+PROPOSTA COMERCIAL · PÁGINAS 5 A 8
+MARCA / CLIENTE: DATA:
+PÁGINA 05 · METODOLOGIA PÁGINA 06 · ENTREGÁVEIS
+As seis etapas do PRISMA O que está incluído
+PÁGINA 07 · CRONOGRAMA PÁGINA 08 · INVESTIMENTO
+Semanas e reuniões Opções, condições, validade, próximos passos
+TEMPLATE PARA PREENCHER AULA 03
+A CENTRAL COMERCIAL DO HEAD
+MARCA / CLIENTE: DATA:
+POTENCIAL CLIENTE CONTATO REALIZADO REUNIÃO AGENDADA PROPOSTA ENVIADA NEGOCIAÇÃO CONTRATO FECHADO
+TEMPLATE PARA PREENCHER AULA 03 · SEMANA A SEMANA
+METAS E INDICADORES COMERCIAIS
+MARCA: DATA:
+01 · 02 · 03 · 04 · 05 · 06 · 07 · 08 ·
+SEMANA PERFIS MENSAGENS RESPOSTAS REUNIÕES PROPOSTAS CONTRATOS FATURADO
+TEMPLATE PARA PREENCHER AULA 03
+PLANO DE CONTEÚDO DE AUTORIDADE
+MARCA: DATA:
+01 · DATA 02 · FORMATO 03 · TEMA 04 · DOR QUE 05 · CHAMADA 06 ·
+TOCA R E S U LTA D O
+TEMPLATE PARA PREENCHER AULA 04
+QUESTIONÁRIO DE IDENTIDADE VISUAL · 1/2
+MARCA / CLIENTE: DATA:
+01 · NOME DA MARCA E NICHO 02 · PÚBLICO PRIORITÁRIO
+Quem compra, idade, estilo de vida
+03 · VALORES 04 · POSICIONAMENTO
+3a5 O que oferece e por que é diferente
+05 · PERSONALIDADE 06 · PERCEPÇÃO DESEJADA
+Se a marca fosse uma pessoa... Como quer ser vista
+TEMPLATE PARA PREENCHER AULA 04
+QUESTIONÁRIO DE IDENTIDADE VISUAL · 2/2
+MARCA / CLIENTE: DATA:
+01 · PREFERÊNCIAS ESTÉTICAS 02 · REFERÊNCIAS VISUAIS
+Marcas, perfis, imagens
+03 · CORES QUE GOSTA 04 · CORES E ESTILOS A EVITAR
+05 · ONDE A MARCA VAI APARECER 06 · PRAZO E OBSERVAÇÕES
+Instagram, embalagem, fachada...
+
+### p. 294–297
+
+TEMPLATE PARA PREENCHER AULA 04
+SISTEMA VISUAL DA MARCA
+MARCA / CLIENTE: DATA:
+01 · CONCEITO ESCOLHIDO 02 · LOGOTIPO
+Nome e atmosfera em uma frase Versões: principal, reduzida, uma cor
+03 · PALETA COM HEX E FUNÇÃO 04 · TIPOGRAFIAS
+Fundo, texto, destaque, apoio Títulos e textos
+05 · ELEMENTOS GRÁFICOS 06 · APLICAÇÕES ENTREGUES
+Padrões, ícones, selos
+TEMPLATE PARA PREENCHER PROJETO FINAL · DOSSIÊ ESTRATÉGICO
+PESQUISA
+ENTREGÁVEL: RELATÓRIO DE INTELIGÊNCIA E DIAGNÓSTICO
+01 · QUAL É O PRINCIPAL PROBLEMA OU 02 · QUAIS EVIDÊNCIAS SUSTENTAM ISSO?
+OPORTUNIDADE?
+03 · CO M O O M E R CA D O S E CO M P O RTA? 04 · O QUE OS CONCORRENTES FAZEM?
+TEMPLATE PARA PREENCHER PROJETO FINAL · DOSSIÊ ESTRATÉGICO
+RELEVÂNCIA
+ENTREGÁVEL: MAPA DE DIFERENCIAÇÃO E PROPOSTA DE VALOR
+01 · PARA QUEM A MARCA EXISTE? 02 · QUAL PROBLEMA RESOLVE E QUAL
+T R A N S F O R M AÇÃO PR O P O R C I O N A?
+0 3 · CO M O S E D I F E R E N C I A D A S A LT E R N AT IVA S? 0 4 · Q U E EVI D Ê N C I A S S U ST E N TA M A PR O P O STA?
+TEMPLATE PARA PREENCHER PROJETO FINAL · DOSSIÊ ESTRATÉGICO
+IDENTIDADE
+ENTREGÁVEL: DNA E UNIVERSO DE MARCA
+0 1 · Q U E M É E S S A M A R CA E N O Q U E AC R E D I TA? 02 · COMO SE COMPORTA (PERSONALIDADE E
+ARQUÉTIPOS)?
+0 3 · O Q U E A T O R N A R E CO N H E C Í V E L? 04 · QUE UNIVERSO SIMBÓLICO CONSTRÓI?
+
+### p. 298–302
+
+TEMPLATE PARA PREENCHER PROJETO FINAL · DOSSIÊ ESTRATÉGICO
+SIGNIFICADO
+ENTREGÁVEL: PLATAFORMA DE POSICIONAMENTO E NARRATIVA
+01 · COMO QUER SER PERCEBIDA (3 PALAVRAS)? 02 · QUAL É A DECLARAÇÃO DE POSICIONAMENTO?
+03 · QUE HISTÓRIA CONTA AO MERCADO? 04 · O QUE PRECISA FAZER PARA SUSTENTAR ESSA
+PERCEPÇÃO?
+TEMPLATE PARA PREENCHER PROJETO FINAL · DOSSIÊ ESTRATÉGICO
+MANIFESTAÇÃO
+ENTREGÁVEL: PAINEL DE MANIFESTAÇÃO DE MARCA
+01 · IDENTIDADE VISUAL (PALETA , TIPOGRAFIA , 02 · IDENTIDADE VERBAL (VOZ, VOCABULÁRIO,
+ELEMENTOS, FOTOGRAFIA) MENSAGENS)
+03 · 5 APLICAÇÕES FÍSICAS E DIGITAIS 04 · UMA EXPERIÊNCIA QUE REFORÇA A
+DIFERENCIAÇÃO
+TEMPLATE PARA PREENCHER PROJETO FINAL · DOSSIÊ ESTRATÉGICO
+ATIVAÇÃO
+ENTREGÁVEL: PLANO DE ATIVAÇÃO E ACOMPANHAMENTO
+01 · O QUE ACONTECE PRIMEIRO, E QUEM É 0 2 · C O M O M A R K E T I N G (estratégias de mercado) E V E N D A S
+R E S P O N S ÁV E L? USAM O POSICIONAMENTO?
+0 3 · Q U E C U I D A D O S D E C U LTU R A E R E P UTA ÇÃ O? 04 · 5 INDICADORES E COMO MEDIR
+TEMPLATE PARA PREENCHER PROJETO FINAL
+APRESENTAÇÃO EXECUTIVA · 1/2
+MARCA / CLIENTE: DATA:
+01 · A MARCA E O DESAFIO 02 · O DIAGNÓSTICO
+03 · A OPORTUNIDADE 04 · A SOLUÇÃO ESTRATÉGICA
+05 · A IDENTIDADE 06 · O POSICIONAMENTO
+TEMPLATE PARA PREENCHER PROJETO FINAL
+APRESENTAÇÃO EXECUTIVA · 2/2
+MARCA / CLIENTE: DATA:
+01 · A MANIFESTAÇÃO 02 · A EXPERIÊNCIA
+03 · A ATIVAÇÃO 04 · A CONCLUSÃO
+Por que a proposta é relevante para o negócio
+
+### p. 303–306
+
+TEMPLATE PARA PREENCHER PROJETO FINAL
+RUBRICA DE AUTOAVALIAÇÃO
+MARCA / CLIENTE: DATA:
+Pesquisa e qualidade do diagnóstico ATÉ 15 PTS NOTA E OBSERVAÇÃO:
+Diferenciação e proposta de valor ATÉ 15 PTS NOTA E OBSERVAÇÃO:
+DNA e universo de marca ATÉ 15 PTS NOTA E OBSERVAÇÃO:
+Posicionamento e narrativa ATÉ 15 PTS NOTA E OBSERVAÇÃO:
+ATÉ 20
+Identidade e manifestações PTS
+NOTA E OBSERVAÇÃO:
+Experiência e plano de ativação ATÉ 10 PTS NOTA E OBSERVAÇÃO:
+Coerência geral e apresentação ATÉ 10 PTS NOTA E OBSERVAÇÃO:
+TOTAL 100 PTS
+Sugestão didática. Aprovação e certificação seguem as regras oficiais da formação.
+TEMPLATE PARA PREENCHER PROJETO FINAL
+LISTA DE VERIFICAÇÃO DO PROJETO FINAL
+MARCA / CLIENTE: DATA:
+Relatório de Inteligência e Diagnóstico Mapa de Diferenciação e Proposta de Valor
+DNA e Universo de Marca Plataforma de Posicionamento e Narrativa
+Painel de Manifestação de Marca (com 5 aplicações) Plano de Ativação e Acompanhamento (com 5
+indicadores)
+Dossiê Estratégico de Branding Apresentação Executiva do Projeto
+(construção e gestão de marca) reunindo tudo
+Hipóteses marcadas como hipóteses Fontes citadas com link
+Projeto conceitual identificado como conceitual Autorização da marca real, se for divulgar
+TEMPLATE PARA PREENCHER AULA 05
+PLANO DE CARREIRA HEAD · 1/2
+MARCA / CLIENTE: DATA:
+01 · ONDE ESTOU HOJE? 02 · QUAL CADEIRA DESEJO OCUPAR?
+Função, clientes, faturamento, o que faço no dia a dia Empresa, agência, independente, empreendedora
+03 · EM QUE TIPO DE PROJETO QUERO ATUAR? 04 · QUAIS COMPETÊNCIAS PRECISO DESENVOLVER?
+Nichos, problemas, tamanho de empresa
+TEMPLATE PARA PREENCHER AULA 05
+PLANO DE CARREIRA HEAD · 2/2
+MARCA / CLIENTE: DATA:
+01 · MINHAS TRÊS PRIORIDADES 02 · O QUE FAREI NOS PRÓXIMOS 30 DIAS
+Ver plano na próxima página
+03 · COMO VOU ACOMPANHAR MINHA EVOLUÇÃO 04 · MEU POSICIONAMENTO PROFISSIONAL EM UMA
+Indicadores e data de revisão FRASE
+
+### p. 307–308
+
+TEMPLATE PARA PREENCHER AULA 05
+PLANO DOS PRIMEIROS 30 DIAS
+MARCA / CLIENTE: DATA:
+SEMANA 01 SEMANA 02 SEMANA 03 SEMANA 04
+POSICIONAMENTO PORTFÓLIO VISIBILIDADE COMERCIAL
+O QUE FICOU DESSA AULA
+Projetos com escopo, etapas, cronograma e
+aprovações
+Laboratório: da pasta vazia ao painel de marca FIM DA FORMAÇÃO
+com IA NÃO EXISTE
+Comercial: nicho, lista, abordagem, reunião e CONCORRÊNCIA PRA
+proposta
+QUEM É HEAD
+Identidade visual com IA como porta de
+entrada
+Lunnara: profundidade e estrutura completa
+com IA
+Projeto final com o PRISMA completo
+
